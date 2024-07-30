@@ -1,0 +1,14 @@
+.lmj-cart{
+    padding: 32px;
+    color: white;
+    background-color: #31b572;
+    float: left;
+    margin-right: 50px;
+    height: 100%;
+
+}
+.fermer-button{
+    background: none;
+    border: 1px white solid;
+    color: white;
+}

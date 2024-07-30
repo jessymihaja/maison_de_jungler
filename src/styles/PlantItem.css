@@ -1,0 +1,23 @@
+.lmj-plant-item-cover {
+	height: 220px;
+	width: 220px;
+	border-radius: 10px;
+}
+
+.lmj-plant-item {
+	margin: 10px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+	text-transform: capitalize;
+}
+.lmj-sales {
+    margin-top: -180px;
+    position: absolute;
+    float: left;
+	font-weight: 500;
+	color: white;
+	padding: 5px 10px;
+	background-color: #31b572;
+}

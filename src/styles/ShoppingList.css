@@ -1,0 +1,16 @@
+.lmj-plant-list {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 800px;
+}
+
+.lmj-add-button{
+	background-color: #31b572;
+	border: 1px solid darkgreen;
+	color: white;
+	padding: 5px;
+	border-radius: 10px;
+	margin-left: 8px;
+}
